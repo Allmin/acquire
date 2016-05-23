@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 author: Allmin Pradhap Singh Susaiyah (allmin123@gmail.com)
-description: to acquire images for learning a classifier
+description: to acquire images for learning a cascade classifier
 """
 import Tkinter
 from PIL import ImageTk
